@@ -1,54 +1,132 @@
-# 👋 Hi, I'm Sarah Henia  
+# Sarah Henia
 
-🚀 **Product Owner | AI & Full-Stack Developer | Cybersecurity & DevOps Enthusiast**  
-Bridging technology, intelligence, and creativity to build secure and intelligent digital ecosystems.
+**Product Owner & Full-Stack Engineer** | AI, DevSecOps & Intelligent Systems
 
----
+Currently supervising 2 AI-driven cybersecurity projects | Building at the intersection of security, automation, and intelligence
 
-### 🧭 About Me  
+**🎯 Open to Software Engineering, Product, and AI internships (Europe & US)**
 
-- 🧩 Currently working as a **Product Owner & Business Analyst** in a cybersecurity platform  
-- 💼 Supervising the creation of **two major AI-driven projects**  
-- 💡 Passionate about **AI, DevSecOps, and intelligent automation**  
-- 🧠 Experienced in **semantic AI, generative art, and data-driven systems**  
-- 🎨 Exploring the intersection of **technology and creativity** through **3D, generative, and art-prompt platforms**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sarah-henia20/)
 
 ---
 
-### ⚙️ Tech Stack  
+## 👩‍💼 Current Role
 
-**Frontend:** React · Next.js · TailwindCSS · Three.js  
-**Backend:** Django · FastAPI · Laravel · Nest.js · Express.js  
-**Databases:** MongoDB · MySQL · PostgreSQL  
-**AI & Data:** Python · Hugging Face · DALL·E · TensorFlow · Pandas  
-**DevOps & Monitoring:** Docker · GitHub Actions · Grafana · Prometheus  
-**Security & Automation:** CI/CD · DevSecOps · SonarQube  
+**Product Owner & Business Analyst** - Cybersecurity Platform
+- Supervising development of 2 major AI-driven security projects
+- Managing product roadmaps, stakeholder requirements, and technical specifications
+- Bridging business needs with engineering execution in high-stakes security domain
 
 ---
 
-### 🌟 Featured Projects  
+## 🚀 Featured Projects
 
-| Category | Project | Description |
-|-----------|----------|-------------|
-| 🤖 **AI Semantics & Automation** | **TaskMind AI** | Intelligent task and project management platform powered by semantic AI |
-| 🔒 **Cybersecurity & DevOps** | **Sentinel Hub** | Automated CI/CD and security orchestration system with integrated analytics |
-| 🧠 **Data Scraping & Analytics** | **ScrapeSmart** | Scalable data scraping and enrichment pipeline for AI workflows |
-| 🎨 **Generative Art** | **PentaArt** | AI-driven generative art and creative studio using DALL·E & Three.js |
-| 🌿 **Sustainability Tech** | **EcorLink** | Smart recycling and eco-impact tracking platform |
-| 🧰 **Brand Creation Tool** | **BranDo** | 3D-based brand creation assistant blending creativity and AI insights |
+### 🔒 [SentinelHub](https://github.com/Sarahenia20/SentinelHub) - DevSecOps Intelligence Platform
+AI-powered vulnerability detection and automated security scanning platform
 
----
+**What it does:** Scans code from GitHub, S3, and direct uploads, detects vulnerabilities via SonarQube, and provides AI-powered security insights with real-time monitoring
 
-### 📈 GitHub Insights  
+**Tech Stack:** Next.js 15, NestJS, TypeScript, SonarQube, OpenAI GPT-4, Neo4j, Supabase, Redis, Grafana, Prometheus, Docker
 
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarahenia20&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahenia20&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Connect With Me  
-[💼 LinkedIn – Sarah Henia](https://www.linkedin.com/in/sarah-henia20/)
+**Key Features:**
+- Multi-source code scanning with automated vulnerability detection
+- AI-powered explanations for security issues
+- Real-time WebSocket monitoring and alerts
+- Role-based access control with 2FA
+- Graph database for code dependency mapping
+- Complete DevOps integration (Grafana, Prometheus, n8n)
 
 ---
 
-> “Where intelligence meets imagination — innovation thrives.” ✨
+### 🎨 [BranDo 2.0](https://github.com/Sarahenia20/BranDo-2.0) - 3D Brand Creation Platform
+Full-stack platform combining interactive 3D design, survey management, and AI social media automation
+
+**What it does:** 3D t-shirt customization with Three.js, complete survey system with analytics, and AI-powered Instagram automation using Gemini AI
+
+**Tech Stack:** React, Three.js, React Three Fiber, Laravel, Express.js, Node.js, MongoDB, MySQL, Google Gemini AI, Puppeteer
+
+**Key Features:**
+- Real-time 3D product customization with Three.js
+- Full survey creation and analytics dashboard
+- AI-powered social media automation (content generation, posting, engagement)
+- Multi-account Instagram management
+- RESTful API with Laravel Sanctum authentication
+
+---
+
+### 🌿 [EcoLink](https://github.com/Sarahenia20/Ecolink-Semantics) - Smart Recycling Platform
+Semantic AI platform for eco-impact tracking and intelligent waste management
+
+**Tech Stack:** Django, React, AI Semantics, Python
+
+**Focus:** Sustainability technology with semantic search and intelligent routing systems
+
+---
+
+### 🎮 [Pentagos](https://github.com/Sarahenia20/Pentagos_Django) - Game Platform
+Django-based game development and management platform
+
+**Tech Stack:** Django, Python, PostgreSQL
+
+---
+
+## 💻 Technical Skills
+
+**Languages & Core:**
+`Python` `JavaScript` `TypeScript` `PHP` `SQL`
+
+**Frontend:**
+`React` `Next.js` `Three.js` `React Three Fiber` `Tailwind CSS` `Framer Motion` `DaisyUI`
+
+**Backend & APIs:**
+`Django` `FastAPI` `NestJS` `Laravel` `Express.js` `Node.js` `RESTful APIs`
+
+**AI & Machine Learning:**
+`TensorFlow` `Hugging Face` `OpenAI GPT-4` `DALL-E` `Google Gemini AI` `Pandas` `Semantic AI`
+
+**DevOps & Monitoring:**
+`Docker` `GitHub Actions` `CI/CD` `Grafana` `Prometheus` `SonarQube` `DevSecOps` `n8n`
+
+**Databases:**
+`PostgreSQL` `MongoDB` `Neo4j` `MySQL` `Redis` `Supabase`
+
+**Security & Infrastructure:**
+`AWS` `SonarQube` `WebSockets` `OAuth 2.0` `2FA` `Role-Based Access Control`
+
+---
+
+## 🎓 Certifications
+
+- **AWS Cloud Fundamentals** - Infrastructure & Cloud Services
+- Currently pursuing: AWS Machine Learning & Automation certifications
+
+---
+
+## 🎯 What I'm Looking For
+
+Internship opportunities in:
+- **Software Engineering** (Full-Stack, Backend, AI/ML)
+- **Product Management** (Technical PM, AI Products)
+- **DevSecOps** (Security Engineering, Platform Engineering)
+- **AI Engineering** (LLM Applications, Intelligent Systems)
+
+**Locations:** Europe (Germany, Netherlands, France, UK) & United States
+
+**Timeline:** Summer 2026 (or earlier)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarah--henia20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-henia20/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sarahenia20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarahenia20)
+
+---
+
+<div align="center">
+
+**"Where intelligence meets imagination — innovation thrives."** ✨
+
+*Building secure, intelligent, and creative digital ecosystems*
+
+</div>
