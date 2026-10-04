@@ -5,8 +5,7 @@
 <p align="center">
   <a href="https://saraheniaportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0f1f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sarah-henia20/"><img src="https://img.shields.io/badge/LinkedIn-5b8cff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sarah.hania15@gmail.com"><img src="https://img.shields.io/badge/Email-9b6bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://saraheniaportfolio.vercel.app"><img src="https://img.shields.io/badge/Open_to_work-f472b6?style=for-the-badge" alt="Open to work" /></a>
+  <a href="mailto:sarah.hania15@gmail.com"><img src="https://img.shields.io/badge/sarah.hania15%40gmail.com-9b6bff?style=for-the-badge&logo=gmail&logoColor=white" alt="sarah.hania15@gmail.com" /></a>
 </p>
 
 <p align="center">
