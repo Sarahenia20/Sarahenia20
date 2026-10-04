@@ -28,21 +28,13 @@
 
 <img src="assets/stack.svg" alt="Tech stack: Claude, OpenAI, MCP, LangChain, Python, TypeScript, C#, .NET, FastAPI, Node.js, Angular, React, SurrealDB, PostgreSQL, SQL Server, Redis, AWS, Azure, Docker" width="100%" />
 
-## Activity
+## How I build
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarahenia20&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a0f1f&title_color=9b6bff&icon_color=5b8cff&text_color=e8ecff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahenia20&layout=compact&langs_count=8&hide_border=true&bg_color=0a0f1f&title_color=9b6bff&text_color=e8ecff" alt="Top languages" />
-</p>
+<img src="assets/principles.svg" alt="How I build: one graph, one door, one human, measured" width="100%" />
 
-## Earlier projects
+## Inside the agent
 
-<p align="center">
-  <a href="https://github.com/Sarahenia20/SentinelHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarahenia20&repo=SentinelHub&hide_border=true&bg_color=0a0f1f&title_color=5b8cff&icon_color=9b6bff&text_color=e8ecff" /></a>
-  <a href="https://github.com/Sarahenia20/BranDo-2.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarahenia20&repo=BranDo-2.0&hide_border=true&bg_color=0a0f1f&title_color=5b8cff&icon_color=9b6bff&text_color=e8ecff" /></a>
-  <a href="https://github.com/Sarahenia20/Apollo_FS_Taskify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarahenia20&repo=Apollo_FS_Taskify&hide_border=true&bg_color=0a0f1f&title_color=5b8cff&icon_color=9b6bff&text_color=e8ecff" /></a>
-  <a href="https://github.com/Sarahenia20/Pentagos_Django"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarahenia20&repo=Pentagos_Django&hide_border=true&bg_color=0a0f1f&title_color=5b8cff&icon_color=9b6bff&text_color=e8ecff" /></a>
-</p>
+<img src="assets/memory.svg" alt="Dawn memory architecture: medallion layers into a SurrealDB knowledge graph; RAG and Redis CAG feed the LLM; human approval before any write" width="100%" />
 
 <p align="center">
   <sub>Cisco CCNA · AWS Certified Cloud Practitioner · NVIDIA DLI · Arabic · English · French</sub>
