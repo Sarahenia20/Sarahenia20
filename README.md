@@ -10,7 +10,7 @@
 
 <p align="center">
   I design and ship AI systems that run in production, with a human approving every step that matters<br/>
-  and the governance to prove it. <b>Software Architect &amp; AI Solution Integrator at The SamurAI.</b>
+  and the governance to prove it. <b>Software Architect &amp; AI Solution Integrator.</b>
 </p>
 
 ## What I build
