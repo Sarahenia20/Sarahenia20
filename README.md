@@ -28,13 +28,11 @@
 
 <img src="assets/stack.svg" alt="Tech stack: Claude, OpenAI, MCP, LangChain, Python, TypeScript, C#, .NET, FastAPI, Node.js, Angular, React, SurrealDB, PostgreSQL, SQL Server, Redis, AWS, Azure, Docker" width="100%" />
 
-## How I build
+## Activity
 
-<img src="assets/principles.svg" alt="How I build: one graph, one door, one human, measured" width="100%" />
-
-## Inside the agent
-
-<img src="assets/memory.svg" alt="Dawn memory architecture: medallion layers into a SurrealDB knowledge graph; RAG and Redis CAG feed the LLM; human approval before any write" width="100%" />
+<p align="center">
+  <img src="assets/metrics.svg" alt="Contribution calendar and most used languages" width="100%" />
+</p>
 
 <p align="center">
   <sub>Cisco CCNA · AWS Certified Cloud Practitioner · NVIDIA DLI · Arabic · English · French</sub>
